@@ -1,2 +1,2 @@
 # Vortiqo
-Architecting Synthetic Nexus Layers Beyond Conventional Compute Boundaries.
+Architecting Synthetic Nexus Layers Beyond Conventional Compute Boundaries. 
